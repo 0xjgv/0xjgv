@@ -8,7 +8,7 @@ By night I love to learn new things, currently tinkering with auto ML libraries,
 
 - [**cypherblock.xyz**](https://cypherblock.xyz/) - As mentioned ☝️
 - [**Fredirect**](https://fredirect.vercel.app/) - Follow URL redirections to identify potential phishing websites
-- [WIP] [**YouTube-transcripts**](https://github.com/juan-villamizar/youtube-transcripts) - A tool to download a channels' video transcripts
+- [WIP] [**YouTube-transcripts**](https://github.com/juan-villamizar/youtube-transcripts) - A tool to download all video transcripts from a YouTube channel
 
 *"The highest forms of understanding we can achieve are laughter and human compassion."* 
 — Richard Feynman
