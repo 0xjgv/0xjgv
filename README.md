@@ -2,7 +2,7 @@
 
 I’m a self-taught, product-minded software engineer with a background in web development, cybersecurity, and reverse engineering. 
 
-By day I work as a Senior Software Engineer at ~~MoonPay~~ **Cypherblock** where I, alone for the time being, build a tool to help individuals & companies prevent fraud in web3 by assigning a trust score to a wallet. Feel free to check it out [**cypherblock.xyz**](https://cypherblock.xyz/).
+By day I work as a Software Engineer at **Cypherblock** where I, alone for the time being, build a tool to help individuals & companies prevent fraud in web3 by assigning a trust score to a wallet. Feel free to check it out [**cypherblock.xyz**](https://cypherblock.xyz/).
 
 By night I love to learn new things, currently tinkering with auto ML libraries, and building things that I find interesting.
 
