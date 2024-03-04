@@ -1,29 +1,14 @@
-### Hi, I'm Juan.
+### About me
+Hi, I'm Juan, a self-taught software engineer with a love for product development and a diverse background in web, data, cybersecurity, and reverse engineering. Currently, I'm channeling my skills into **epilot**, where we're pioneering a new era for energy providers. Think of it as Shopify for the energy sector, simplifying how products and services are managed and sold.
 
-I’m a self-taught, product-minded software engineer with a background in web development, cybersecurity, and reverse engineering. 
+When the sun sets, my curiosity rises. I'm deeply engrossed in exploring LLM/ML libraries, always on the lookout for new knowledge and interesting projects to bring to life.
 
-By day I work as a Software Engineer at **Cypherblock** where I, alone for the time being, build a tool to help individuals & companies prevent fraud in web3 by assigning a trust score to a wallet. Feel free to check it out [**cypherblock.xyz**](https://cypherblock.xyz/).
+### Side Hustles and Innovations:
+- [**Cypherblock**](https://cypherblock.xyz/) - A streamlined API that evaluates Ethereum addresses for fraud risk by assigning trust scores and consolidating scam data, enhancing web3 security.
+- [**Fredirect**](https://fredirect.vercel.app/) - A tool that tracks and analyzes URL redirects to spot harmful or fake links, keeping you safe from online impersonation threats.
 
-By night I love to learn new things, currently tinkering with auto ML libraries, and building things that I find interesting.
 
-- [**cypherblock.xyz**](https://cypherblock.xyz/) - As mentioned ☝️
-- [**Fredirect**](https://fredirect.vercel.app/) - Follow URL redirections to identify potential phishing websites
-- [WIP] [**YouTube-transcripts**](https://github.com/juan-villamizar/youtube-transcripts) - A tool to download all video transcripts from a YouTube channel
+## We're hiring! Feel free to reach out to [me](https://www.linkedin.com/in/jgv/) 🙏
 
 *"The highest forms of understanding we can achieve are laughter and human compassion."* 
 — Richard Feynman
-
-<!--
-**juan-villamizar/juan-villamizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
