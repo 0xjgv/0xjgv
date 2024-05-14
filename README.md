@@ -1,7 +1,7 @@
 ### About me
-Hi, I'm Juan, a self-taught software engineer with a love for product development and a diverse background in web, data, cybersecurity, and reverse engineering. Currently, I'm channeling my skills into **epilot**, where we're pioneering a new era for energy providers. Think of it as Shopify for the energy sector, simplifying how products and services are managed and sold.
+Hey, I'm Juan, a software engineer with a passion for product development. My journey spans web, data, cybersecurity, and reverse engineering. Right now, I'm driving innovation at **epilot**, where we're transforming the energy sector into something as seamless and user-friendly as Shopify.
 
-When the sun sets, my curiosity rises. I'm deeply engrossed in exploring LLM/ML libraries, always on the lookout for new knowledge and interesting projects to bring to life.
+By night, my curiosity takes over. I'm diving deep into LLM/ML libraries, constantly seeking out new knowledge and exciting projects to tackle.
 
 ### Side Hustles and Innovations:
 - [**Cypherblock**](https://cypherblock.xyz/) - A streamlined API that evaluates Ethereum addresses for fraud risk by assigning trust scores and consolidating scam data, enhancing web3 security.
