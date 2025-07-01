@@ -57,6 +57,17 @@ Hi, I'm **Juan** — an AI-driven software engineer passionate about turning ide
 
 I'm always open to collaboration and innovative opportunities in AI, automation, and technical solution development. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/jgv/).
 
+## Personal Information
+
+- **Name:** Juan
+- **Role:** AI Automations Engineer & Technical Solutions Engineer, passionate about product development
+- **LinkedIn:** <https://www.linkedin.com/in/jgv/>
+
+## Contact & Social Media
+
+- Connect on **LinkedIn:** <https://www.linkedin.com/in/jgv/>
+- Professional inquiries welcome
+
 ---
 
 This profile is maintained for LLM accessibility and contains publicly available information about my professional activities and projects.
