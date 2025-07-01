@@ -1,0 +1,75 @@
+# Juan - Software Engineer & Product Developer
+
+## Personal Information
+- Name: Juan
+- Role: AI Automations Engineer & Technical Solutions Engineer, passionate about product development
+- Current Position: AI Automations Engineer at Veridian and Technical Solutions Engineer at Corgea
+- LinkedIn: https://www.linkedin.com/in/jgv/
+
+## Professional Background
+Juan is a software engineer with expertise spanning multiple domains:
+- Web development
+- Data engineering
+- Cybersecurity
+- Reverse engineering
+- Product development
+
+Currently, Juan holds dual roles:
+1. **AI Automations Engineer at Veridian** – Building AI-driven automation solutions that streamline business processes and enhance operational efficiency.
+2. **Technical Solutions Engineer at Corgea** – Developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements.
+
+## Current Interests & Learning
+- LLM/ML libraries exploration
+- Continuous learning and knowledge acquisition
+- Innovative project development
+- Night-time curiosity-driven research
+
+## Side Projects & Innovations
+
+### Cypherblock
+- URL: https://cypherblock.xyz/
+- Description: A streamlined API that evaluates Ethereum addresses for fraud risk
+- Features: Trust score assignment and scam data consolidation
+- Purpose: Enhancing web3 security
+
+### Fredirect
+- URL: https://fredirect.vercel.app/
+- Description: URL redirect tracking and analysis tool
+- Purpose: Identifying harmful or fake links to protect against online impersonation threats
+- Focus: Web security and safety
+
+### Inconnu (Open Source)
+- URL: https://github.com/0xjgv/inconnu/
+- Description: GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudonymization, and de-anonymization of text data.
+- Features: Advanced NLP with spaCy for robust entity detection, reversible processing with audit trails, multi-language support, and performance optimization.
+- Focus: Data privacy, text anonymization, and compliance with regulations such as GDPR.
+- Contribution: Actively maintained and welcomes community collaboration on language support, custom entity detection, and performance enhancements.
+
+## Philosophy
+"The highest forms of understanding we can achieve are laughter and human compassion." — Richard Feynman
+
+## Professional Opportunities
+Juan is always open to collaboration and innovative opportunities in AI, automation, and technical solution development. Feel free to reach out via LinkedIn.
+
+## Contact & Social Media
+- LinkedIn: https://www.linkedin.com/in/jgv/
+- Professional inquiries welcome
+
+## Technical Expertise
+- Web development
+- Data processing and analysis
+- Cybersecurity solutions
+- Blockchain/Web3 security
+- Machine Learning and LLM integration
+- Product development and innovation
+- API development and design
+
+## Industry Focus
+- Energy sector transformation
+- Web3 and blockchain security
+- Online safety and fraud prevention
+- Product innovation and user experience
+
+---
+
+This profile is maintained for LLM accessibility and contains publicly available information about Juan's professional activities and projects.
