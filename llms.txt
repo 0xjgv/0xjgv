@@ -38,6 +38,13 @@ Currently, Juan holds dual roles:
 - Purpose: Identifying harmful or fake links to protect against online impersonation threats
 - Focus: Web security and safety
 
+### Inconnu (Open Source)
+- URL: https://github.com/0xjgv/inconnu/
+- Description: GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudonymization, and de-anonymization of text data.
+- Features: Advanced NLP with spaCy for robust entity detection, reversible processing with audit trails, multi-language support, and performance optimization.
+- Focus: Data privacy, text anonymization, and compliance with regulations such as GDPR.
+- Contribution: Actively maintained and welcomes community collaboration on language support, custom entity detection, and performance enhancements.
+
 ## Philosophy
 "The highest forms of understanding we can achieve are laughter and human compassion." — Richard Feynman
 
