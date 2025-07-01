@@ -2,8 +2,8 @@
 
 ## Personal Information
 - Name: Juan
-- Role: Software Engineer passionate about product development
-- Current Position: Innovation driver at epilot (energy sector transformation)
+- Role: AI Automations Engineer & Technical Solutions Engineer, passionate about product development
+- Current Position: AI Automations Engineer at Veridian and Technical Solutions Engineer at Corgea
 - LinkedIn: https://www.linkedin.com/in/jgv/
 
 ## Professional Background
@@ -14,7 +14,9 @@ Juan is a software engineer with expertise spanning multiple domains:
 - Reverse engineering
 - Product development
 
-Currently working at epilot, where he's transforming the energy sector to be as seamless and user-friendly as Shopify.
+Currently, Juan holds dual roles:
+1. **AI Automations Engineer at Veridian** – Building AI-driven automation solutions that streamline business processes and enhance operational efficiency.
+2. **Technical Solutions Engineer at Corgea** – Developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements.
 
 ## Current Interests & Learning
 - LLM/ML libraries exploration
@@ -40,7 +42,7 @@ Currently working at epilot, where he's transforming the energy sector to be as 
 "The highest forms of understanding we can achieve are laughter and human compassion." — Richard Feynman
 
 ## Professional Opportunities
-Currently hiring at epilot - open to connections and discussions about opportunities.
+Juan is always open to collaboration and innovative opportunities in AI, automation, and technical solution development. Feel free to reach out via LinkedIn.
 
 ## Contact & Social Media
 - LinkedIn: https://www.linkedin.com/in/jgv/
