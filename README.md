@@ -10,13 +10,10 @@ By night, my curiosity takes over. I'm diving deep into LLM/ML libraries, consta
 
 ## 🚀 Side Projects & Innovations
 
-### [Cypherblock](https://cypherblock.xyz/)
-A streamlined API that evaluates Ethereum addresses for fraud risk by assigning trust scores and consolidating scam data, enhancing web3 security.
-
-### [Fredirect](https://fredirect.vercel.app/)
+### [Sentinel - URL intelligence](https://sentinel-fredirect.vercel.app/)
 A tool that tracks and analyzes URL redirects to spot harmful or fake links, keeping you safe from online impersonation threats.
 
-### [Inconnu](https://github.com/0xjgv/inconnu/) (Open Source)
+### [Inconnu](https://inconnu.ai/) (Open Source)
 GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudonymization, and de-anonymization of text data.
 
 **Features:**
@@ -24,7 +21,7 @@ GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudon
 - Reversible processing with audit trails
 - Multi-language support
 - Performance optimization
-- Active community collaboration welcome
+- Active community collaboration is welcome
 
 ## 💼 Technical Expertise
 - Web development
