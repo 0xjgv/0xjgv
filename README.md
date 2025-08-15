@@ -46,7 +46,6 @@ GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudon
 I'm always open to collaboration and innovative opportunities in AI, automation, and technical solution development. Whether you're looking to transform your business processes with AI or need technical solutions that bridge complex requirements with user-friendly experiences, let's connect!
 
 ## 📫 Contact & Connect
-- **LinkedIn:** [linkedin.com/in/jgv](https://www.linkedin.com/in/jgv/)
 - **GitHub:** [github.com/0xjgv](https://github.com/0xjgv/)
 - Professional inquiries always welcome
 
