@@ -1,4 +1,4 @@
-# Juan - Software Engineer & Product Developer
+# Juan - Software Engineer
 
 ## About Me
 Hey, I'm Juan, a software engineer passionate about product development. My journey spans web development, data engineering, cybersecurity, and reverse engineering. Currently, I hold dual roles that leverage my diverse technical expertise:
