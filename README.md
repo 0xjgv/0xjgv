@@ -1,10 +1,10 @@
-# Juan - Software Engineer
+# Juan - software engineer
 
-## About Me
+## about me
 Hey, I'm Juan, a software engineer passionate about product development. My journey spans web development, data engineering, cybersecurity, and reverse engineering. Currently, I hold dual roles that leverage my diverse technical expertise:
 
-- **AI Automations Engineer at Veridian** – Building AI-driven automation solutions that streamline business processes and enhance operational efficiency
-- **Technical Solutions Engineer at Corgea** – Developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements
+- **AI automations engineer at Veridian** – Building AI-driven automation solutions that streamline business processes and enhance operational efficiency
+- **Technical solutions engineer at Corgea** – Developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements
 
 By night, my curiosity takes over. I'm diving deep into LLM/ML libraries, constantly seeking new knowledge and exciting projects to tackle.
 
@@ -23,15 +23,15 @@ GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudon
 - Performance optimization
 - Active community collaboration is welcome
 
-## 💼 Technical Expertise
-- Web development
-- Data processing and analysis
-- Cybersecurity solutions
-- Blockchain/Web3 security
-- Machine Learning and LLM integration
-- Product development and innovation
-- API development and design
+## 💼 Technical Expertise & Curiosities
+- Machine Learning & LLM integration
+- Data processing & analysis
+- API development & design
 - Reverse engineering
+- Blockchain/Web3
+- AI automations
+- Cybersecurity
+
 
 ## 🏭 Industry Focus
 - Energy sector transformation
