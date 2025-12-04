@@ -12,7 +12,7 @@ Hey, I'm Juan, a software engineer passionate about product development. My jour
 ### [sentinel - URL intelligence](https://sentinel-fredirect.vercel.app/)
 A tool that tracks and analyzes URL redirects to spot harmful or fake links, keeping you safe from online impersonation threats. *Helps my mom check links in emails* 🫶
 
-### [inconnu](https://inconnu.ai/) (Open Source)
+### [inconnu](https://inconnu.ai/) (oss - MIT License)
 GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudonymization, and de-anonymization of text data.
 
 **features:**
