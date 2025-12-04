@@ -1,50 +1,36 @@
 # Juan - software engineer
 
 ## about me
-Hey, I'm Juan, a software engineer passionate about product development. My journey spans web development, data engineering, cybersecurity, and reverse engineering. Currently, I hold dual roles that leverage my diverse technical expertise:
+Hey, I'm Juan, a software engineer passionate about product development. My journey spans web development, data engineering, cybersecurity, and reverse engineering. Working as:
 
-- **AI automations engineer at Veridian** – Building AI-driven automation solutions that streamline business processes and enhance operational efficiency
-- **Technical solutions engineer at Corgea** – Developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements
+- **technical solutions engineer at Corgea** – developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements
+- **AI automations engineer at Veridian** – building AI-driven automation solutions that streamline business processes and enhance operational efficiency
+- **trying to figure out what I like to call "neo-engineering"** – exploring how to harness LLMs to enhance coding
 
-By night, my curiosity takes over. I'm diving deep into LLM/ML libraries, constantly seeking new knowledge and exciting projects to tackle.
+## 🚂 toys
 
-## 🚀 Side Projects & Innovations
+### [sentinel - URL intelligence](https://sentinel-fredirect.vercel.app/)
+A tool that tracks and analyzes URL redirects to spot harmful or fake links, keeping you safe from online impersonation threats. *Helps my mom check links in emails* 🫶
 
-### [Sentinel - URL intelligence](https://sentinel-fredirect.vercel.app/)
-A tool that tracks and analyzes URL redirects to spot harmful or fake links, keeping you safe from online impersonation threats.
-
-### [Inconnu](https://inconnu.ai/) (Open Source)
+### [inconnu](https://inconnu.ai/) (Open Source)
 GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudonymization, and de-anonymization of text data.
 
-**Features:**
+**features:**
 - Advanced NLP with spaCy for robust entity detection
-- Reversible processing with audit trails
-- Multi-language support
-- Performance optimization
 - Active community collaboration is welcome
+- Reversible processing with audit trails
+- Performance optimization
 
-## 💼 Technical Expertise & Curiosities
-- Machine Learning & LLM integration
+## 🔎 curiosities
 - Data processing & analysis
-- API development & design
+- AI & machines learning
 - Reverse engineering
 - Blockchain/Web3
-- AI automations
 - Cybersecurity
 
-
-## 🏭 Industry Focus
-- Energy sector transformation
-- Web3 and blockchain security
-- Online safety and fraud prevention
-- Product innovation and user experience
-
-## 🤝 Professional Opportunities
-I'm always open to collaboration and innovative opportunities in AI, automation, and technical solution development. Whether you're looking to transform your business processes with AI or need technical solutions that bridge complex requirements with user-friendly experiences, let's connect!
-
-## 📫 Contact & Connect
-- **GitHub:** [github.com/0xjgv](https://github.com/0xjgv/)
-- Professional inquiries always welcome
+## 📫 contact & connect
+- **github:** [github.com/0xjgv](https://github.com/0xjgv/)
+- **linkeind:** [linkedin.com/jgv](https://www.linkedin.com/in/jgv/)
 
 ---
 
