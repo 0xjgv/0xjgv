@@ -1,11 +1,11 @@
 # Juan - software engineer
 
 ## about me
-Hey, I'm Juan, a software engineer passionate about product development. My journey spans web development, data engineering, cybersecurity, and reverse engineering. Working as:
+Hey, I'm Juan, a software engineer passionate about product development. My journey spans web development, data engineering, and cybersecurity. Working as:
 
 - **technical solutions engineer at Corgea** – developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements
 - **AI automations engineer at Veridian** – building AI-driven automation solutions that streamline business processes and enhance operational efficiency
-- **trying to figure out what I like to call "neo-engineering"** – exploring how to harness LLMs to enhance coding
+- **trying to figure out what I like to call "neo-engineering"** – exploring how to harness LLMs to enhance coding through agents
 
 ## 🚂 toys
 
@@ -31,6 +31,7 @@ GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudon
 ## 📫 contact & connect
 - **github:** [github.com/0xjgv](https://github.com/0xjgv/)
 - **linkeind:** [linkedin.com/jgv](https://www.linkedin.com/in/jgv/)
+- **space:** [0xjgv.space](https://0xjgv.space/)
 
 ---
 
