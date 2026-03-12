@@ -1,75 +1,40 @@
-# Juan - Software Engineer & Product Developer
+# Juan
 
-## Personal Information
+## About
 - Name: Juan
-- Role: AI Automations Engineer & Technical Solutions Engineer, passionate about product development
-- Current Position: AI Automations Engineer at Veridian and Technical Solutions Engineer at Corgea
+- Role: Founder and builder shipping products in security, defense, and AI
+- GitHub: https://github.com/0xjgv/
 - LinkedIn: https://www.linkedin.com/in/jgv/
+- Website: https://0xjgv.space/
 
-## Professional Background
-Juan is a software engineer with expertise spanning multiple domains:
-- Web development
-- Data engineering
-- Cybersecurity
-- Reverse engineering
-- Product development
+## Projects
 
-Currently, Juan holds dual roles:
-1. **AI Automations Engineer at Veridian** – Building AI-driven automation solutions that streamline business processes and enhance operational efficiency.
-2. **Technical Solutions Engineer at Corgea** – Developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements.
+### Stilgar — EU Defense Procurement Intelligence
+- URL: https://usestilgar.com/
+- Problem: 41.8% of EU defense tenders receive a single bid because suppliers never find them.
+- Solution: Monitors 30+ sources across 5 countries and delivers structured, English-language tender intelligence so defense suppliers can compete.
 
-## Current Interests & Learning
-- LLM/ML libraries exploration
-- Continuous learning and knowledge acquisition
-- Innovative project development
-- Night-time curiosity-driven research
+### Sentinel — Firewalls for AI Agents
+- URL: https://usesentinel.sh/
+- Problem: Teams shipping production agents need security controls that don't exist yet.
+- Solution: Pattern-matching firewall that blocks dangerous agent actions, with audit trails and human-in-the-loop approvals.
 
-## Side Projects & Innovations
+### Inconnu — Zero-Trust Bridge for RAG
+- URL: https://inconnu.ai/
+- Problem: RAG systems access sensitive data without proper security boundaries.
+- Solution: Zero-trust security layer between RAG pipelines and data sources.
 
-### Cypherblock
-- URL: https://cypherblock.xyz/
-- Description: A streamlined API that evaluates Ethereum addresses for fraud risk
-- Features: Trust score assignment and scam data consolidation
-- Purpose: Enhancing web3 security
+### Fredirect — URL Intelligence
+- URL: https://sentinel-fredirect.vercel.app/
+- Problem: Harmful and fake links exploit URL redirects for phishing and impersonation.
+- Solution: Tracks and analyzes redirect chains to surface threats before they reach users.
 
-### Fredirect
-- URL: https://fredirect.vercel.app/
-- Description: URL redirect tracking and analysis tool
-- Purpose: Identifying harmful or fake links to protect against online impersonation threats
-- Focus: Web security and safety
+### Wando — Security Checklist for Teams
+- URL: https://wando.vercel.app/
+- Problem: Teams lack actionable security guidance.
+- Solution: Curated, practical security and privacy recommendations teams can actually follow.
 
-### Inconnu (Open Source)
-- URL: https://github.com/0xjgv/inconnu/
-- Description: GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudonymization, and de-anonymization of text data.
-- Features: Advanced NLP with spaCy for robust entity detection, reversible processing with audit trails, multi-language support, and performance optimization.
-- Focus: Data privacy, text anonymization, and compliance with regulations such as GDPR.
-- Contribution: Actively maintained and welcomes community collaboration on language support, custom entity detection, and performance enhancements.
-
-## Philosophy
-"The highest forms of understanding we can achieve are laughter and human compassion." — Richard Feynman
-
-## Professional Opportunities
-Juan is always open to collaboration and innovative opportunities in AI, automation, and technical solution development. Feel free to reach out via LinkedIn.
-
-## Contact & Social Media
+## Contact
+- GitHub: https://github.com/0xjgv/
 - LinkedIn: https://www.linkedin.com/in/jgv/
-- Professional inquiries welcome
-
-## Technical Expertise
-- Web development
-- Data processing and analysis
-- Cybersecurity solutions
-- Blockchain/Web3 security
-- Machine Learning and LLM integration
-- Product development and innovation
-- API development and design
-
-## Industry Focus
-- Energy sector transformation
-- Web3 and blockchain security
-- Online safety and fraud prevention
-- Product innovation and user experience
-
----
-
-This profile is maintained for LLM accessibility and contains publicly available information about Juan's professional activities and projects.
+- Website: https://0xjgv.space/

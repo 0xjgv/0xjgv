@@ -1,39 +1,31 @@
-# Juan - software engineer
+# Juan
 
-## about me
-Hey, I'm Juan, a software engineer passionate about product development. My journey spans web development, data engineering, and cybersecurity. Working as:
+Builder. Shipping products at the intersection of security, defense, and AI.
 
-- **technical solutions engineer at Corgea** – developing and supporting technical solutions tailored to client needs, bridging product capabilities with customer requirements
-- **AI automations engineer at Veridian** – building AI-driven automation solutions that streamline business processes and enhance operational efficiency
-- **trying to figure out what I like to call "neo-engineering"** – exploring how to harness LLMs to enhance coding through agents
+## Projects
 
-## 🚂 toys
+### [Stilgar](https://usestilgar.com/) — EU Defense Procurement Intelligence
 
-### [sentinel - URL intelligence](https://sentinel-fredirect.vercel.app/)
-A tool that tracks and analyzes URL redirects to spot harmful or fake links, keeping you safe from online impersonation threats. *Helps my mom check links in emails* 🫶
+41.8% of EU defense tenders receive a single bid because suppliers never find them. Stilgar monitors 30+ sources across 5 countries and delivers structured, English-language tender intelligence so defense suppliers can actually compete.
 
-### [inconnu](https://inconnu.ai/) (oss - MIT License)
-GDPR-compliant data privacy toolkit for entity redaction, anonymization, pseudonymization, and de-anonymization of text data.
+### [Sentinel](https://usesentinel.sh/) — Firewalls for AI Agents
 
-**features:**
-- Advanced NLP with spaCy for robust entity detection
-- Active community collaboration is welcome
-- Reversible processing with audit trails
-- Performance optimization
+Teams shipping production agents need security controls that don't exist yet. Sentinel is a pattern-matching firewall that blocks dangerous agent actions, with audit trails and human-in-the-loop approvals.
 
-## 🔎 curiosities
-- Data processing & analysis
-- AI & machines learning
-- Reverse engineering
-- Blockchain/Web3
-- Cybersecurity
+### [Inconnu](https://inconnu.ai/) — Zero-Trust Bridge for RAG
 
-## 📫 contact & connect
-- **github:** [github.com/0xjgv](https://github.com/0xjgv/)
-- **linkeind:** [linkedin.com/jgv](https://www.linkedin.com/in/jgv/)
-- **space:** [0xjgv.space](https://0xjgv.space/)
+RAG systems access sensitive data without proper security boundaries. Inconnu is a zero-trust security layer that sits between your RAG pipeline and your data sources.
 
----
+### [Fredirect](https://sentinel-fredirect.vercel.app/) — URL Intelligence
 
-*"The highest forms of understanding we can achieve are laughter and human compassion."*  
-— Richard Feynman
+Harmful and fake links exploit URL redirects for phishing and impersonation. Fredirect tracks and analyzes redirect chains to surface threats before they reach users.
+
+### [Wando](https://wando.vercel.app/) — Security Checklist for Teams
+
+Teams lack actionable security guidance. Wando provides curated, practical security and privacy recommendations you can actually follow.
+
+## Connect
+
+- [GitHub](https://github.com/0xjgv/)
+- [LinkedIn](https://www.linkedin.com/in/jgv/)
+- [0xjgv.space](https://0xjgv.space/)
