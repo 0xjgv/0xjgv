@@ -8,10 +8,6 @@ Builder. Shipping products at the intersection of security, defense, and AI.
 
 41.8% of EU defense tenders receive a single bid because suppliers never find them. Stilgar monitors 30+ sources across 5 countries and delivers structured, English-language tender intelligence so defense suppliers can actually compete.
 
-### [Sentinel](https://usesentinel.sh/) — Firewalls for AI Agents
-
-Teams shipping production agents need security controls that don't exist yet. Sentinel is a pattern-matching firewall that blocks dangerous agent actions, with audit trails and human-in-the-loop approvals.
-
 ### [Inconnu](https://inconnu.ai/) — Zero-Trust Bridge for RAG
 
 RAG systems access sensitive data without proper security boundaries. Inconnu is a zero-trust security layer that sits between your RAG pipeline and your data sources.
@@ -19,6 +15,10 @@ RAG systems access sensitive data without proper security boundaries. Inconnu is
 ### [Fredirect](https://sentinel-fredirect.vercel.app/) — URL Intelligence
 
 Harmful and fake links exploit URL redirects for phishing and impersonation. Fredirect tracks and analyzes redirect chains to surface threats before they reach users.
+
+### [Harness](https://github.com/0xjgv/harness) — Quality Guardrails for AI Coding Agents
+
+AI coding agents generate code without consistent structure or quality standards. Harness provides opinionated project templates with built-in guardrails so agents produce reliable, maintainable code from the start.
 
 ### [Wando](https://wando.vercel.app/) — Security Checklist for Teams
 
