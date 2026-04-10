@@ -2,17 +2,17 @@
 
 ## About
 - Name: Juan
-- Role: Founder and builder shipping products in security, defense, and AI
+- Role: Making AI agents trustworthy, one open-source tool at a time
 - GitHub: https://github.com/0xjgv/
 - LinkedIn: https://www.linkedin.com/in/jgv/
 - Website: https://0xjgv.space/
 
 ## Projects
 
-### Stilgar — EU Defense Procurement Intelligence
+### Stilgar — Security Research for AI Agent Harnesses
 - URL: https://usestilgar.com/
-- Problem: 41.8% of EU defense tenders receive a single bid because suppliers never find them.
-- Solution: Monitors 30+ sources across 5 countries and delivers structured, English-language tender intelligence so defense suppliers can compete.
+- Problem: AI agent harnesses and teams lack security tooling built for their unique trust boundaries.
+- Solution: A security research initiative building tools to make agent orchestration safer and more reliable at the infrastructure level.
 
 ### Inconnu — Zero-Trust Bridge for RAG
 - URL: https://inconnu.ai/

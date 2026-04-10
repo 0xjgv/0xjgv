@@ -1,12 +1,12 @@
 # Juan
 
-Builder. Shipping products at the intersection of security, defense, and AI.
+Making AI agents trustworthy, one open-source tool at a time.
 
 ## Projects
 
-### [Stilgar](https://usestilgar.com/) — EU Defense Procurement Intelligence
+### [Stilgar](https://usestilgar.com/) — Security Research for AI Agent Harnesses
 
-41.8% of EU defense tenders receive a single bid because suppliers never find them. Stilgar monitors 30+ sources across 5 countries and delivers structured, English-language tender intelligence so defense suppliers can actually compete.
+A security research initiative building tools for AI agent harnesses and teams. Stilgar explores how to make agent orchestration safer and more reliable at the infrastructure level.
 
 ### [Inconnu](https://inconnu.ai/) — Zero-Trust Bridge for RAG
 
