@@ -2,7 +2,8 @@
 
 ## About
 - Name: Juan
-- Role: Making AI agents trustworthy, one open-source tool at a time
+- Role: Making AI agents trustworthy, secure, one tool at a time
+- Position: Product Engineer at Corgea (https://corgea.com/)
 - GitHub: https://github.com/0xjgv/
 - LinkedIn: https://www.linkedin.com/in/jgv/
 - Website: https://0xjgv.space/
@@ -19,15 +20,21 @@
 - Problem: RAG systems access sensitive data without proper security boundaries.
 - Solution: Zero-trust security layer between RAG pipelines and data sources.
 
-### Fredirect — URL Intelligence
-- URL: https://sentinel-fredirect.vercel.app/
-- Problem: Harmful and fake links exploit URL redirects for phishing and impersonation.
-- Solution: Tracks and analyzes redirect chains to surface threats before they reach users.
-
 ### Harness — Quality Guardrails for AI Coding Agents
 - URL: https://github.com/0xjgv/harness
 - Problem: AI coding agents generate code without consistent structure or quality standards.
 - Solution: Opinionated project templates with built-in guardrails so agents produce reliable, maintainable code from the start.
+
+### Spok — Spec-Driven Development for AI Coding Agents
+- URL: https://github.com/0xjgv/spok
+- Problem: AI coding agents build without first agreeing on what to ship.
+- Solution: A lightweight spec-driven workflow — explore, propose a chunked change, apply one slice at a time, then fold the result back into living specs.
+- Inspiration: Dexter Horthy's talk "Everything We Got Wrong About Research-Plan-Implement" (https://www.youtube.com/watch?v=YwZR6tc7qYg)
+
+### Interlocks — Deterministic Python Quality Loop
+- URL: https://github.com/0xjgv/interlocks
+- Problem: Local checks, CI, and agent-authored pull requests drift apart.
+- Solution: One deterministic Python quality loop — lint, typecheck, test, coverage, and more — behind a single command so humans and agents review against the same output.
 
 ### Wando — Security Checklist for Teams
 - URL: https://wando.vercel.app/
