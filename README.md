@@ -6,7 +6,7 @@ Product Engineer at [Corgea](https://corgea.com/).
 
 ## Projects
 
-### [Inconnu](https://inconnu.ai/) — Zero-Trust Bridge for RAG
+### [Inconnu](https://github.com/0xjgv/inconnu) — Zero-Trust Bridge for RAG
 
 RAG systems access sensitive data without proper security boundaries. Inconnu is a zero-trust security layer that sits between your RAG pipeline and your data sources.
 
