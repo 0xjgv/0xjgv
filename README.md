@@ -6,10 +6,6 @@ Product Engineer at [Corgea](https://corgea.com/).
 
 ## Projects
 
-### [Stilgar](https://usestilgar.com/) — Security Research for AI Agent Harnesses
-
-A security research initiative building tools for AI agent harnesses and teams. Stilgar explores how to make agent orchestration safer and more reliable at the infrastructure level.
-
 ### [Inconnu](https://inconnu.ai/) — Zero-Trust Bridge for RAG
 
 RAG systems access sensitive data without proper security boundaries. Inconnu is a zero-trust security layer that sits between your RAG pipeline and your data sources.
