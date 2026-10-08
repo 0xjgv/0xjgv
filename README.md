@@ -14,10 +14,6 @@ RAG systems access sensitive data without proper security boundaries. Inconnu is
 
 AI coding agents generate code without consistent structure or quality standards. Harness provides opinionated project templates with built-in guardrails so agents produce reliable, maintainable code from the start.
 
-### [Spok](https://github.com/0xjgv/spok) — Spec-Driven Development for AI Coding Agents
-
-AI coding agents build without first agreeing on what to ship. Spok is a lightweight spec-driven workflow: explore an idea, propose a chunked change, apply one slice at a time, then fold the result back into living specs. Inspired by Dexter Horthy's talk [Everything We Got Wrong About Research-Plan-Implement](https://www.youtube.com/watch?v=YwZR6tc7qYg).
-
 ### [Interlocks](https://github.com/0xjgv/interlocks) — Deterministic Python Quality Loop
 
 Local checks, CI, and agent-authored pull requests drift apart. Interlocks runs one deterministic Python quality loop — lint, typecheck, test, coverage, and more — behind a single command so humans and agents review against the same output.
