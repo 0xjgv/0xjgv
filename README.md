@@ -2,7 +2,7 @@
 
 Making AI agents trustworthy, secure, one tool at a time.
 
-Product Engineer at [Corgea](https://corgea.com/).
+Product Security Engineer at [Corgea](https://corgea.com/).
 
 ## Projects
 
